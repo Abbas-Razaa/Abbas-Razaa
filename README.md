@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbas Raza</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abbas-razaa&label=Profile%20views&color=0e75b6&style=flat" alt="abbas-razaa" /> </p>
+
+[![](https://visitcount.itsvg.in/api?id=Abbas-Razaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
 - 🌱 I’m currently learning **Full Stack Development**
