@@ -22,7 +22,6 @@
 <a href="https://kaggle.com/abbasrazaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abbasrazaa02" height="30" width="40" /></a>
 <a href="https://fb.com/ar.welcomes.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ar.welcomes.you" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/abbas_.raza/?r=nametag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abbas_.raza/?r=nametag" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abbas-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abbas-raza" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
