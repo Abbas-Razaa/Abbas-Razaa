@@ -4,23 +4,22 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning and exploring various technologies in **Full Stack Development**
 
-- 👨‍💻 All of my projects are available at [https://abbas-raza-portfolio.web.app](https://abbas-raza-portfolio.web.app)
+- 👨‍💻 All of my projects are available at [https://abbas-raza-portfolio.vercel.app](https://abbas-raza-portfolio.vercel.app)
 
 - 💬 Ask me about **Next.js, MERN Stack**
 
 - 📫 How to reach me **abbasrazaa02@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1H2jSs62A-IMq_c5yslFRYLE-h6_Fvw1Z/view?usp=sharing
-
+- 📄 Know about my experiences https://www.overleaf.com/read/sjzdzxvgxnjd#baccc8
 <h2 align="left">🌐 Connect with me:</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/in/abbas-raza-52116b254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abbas-raza-52116b254" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24733181/abbas-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24733181/abbas-raza" height="30" width="40" /></a>
 <a href="https://fb.com/ar.welcomes.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ar.welcomes.you" height="30" width="40" /></a>
-<a href="https://instagram.com/abbas_.raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abbas_.raza/?r=nametag" height="30" width="40" /></a>
+<a href="https://instagram.com/abbas_.raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abbas_.raza" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
