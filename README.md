@@ -108,7 +108,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-razaa&show_icons=true&locale=en" alt="abbas-razaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-razaa" alt="abbas-razaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-razaa&" alt="abbas-razaa" /></p>
 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
