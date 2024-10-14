@@ -12,16 +12,15 @@
 
 - 📫 How to reach me **abbasrazaa02@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFosY_Cv_k/TqyXe419OHJgGEk7FuAtew/view?utm_content=DAFosY_Cv_k&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://www.canva.com/design/DAFosY_Cv_k/TqyXe419OHJgGEk7FuAtew/view?utm_content=DAFosY_Cv_k&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- 📄 Know about my experiences https://drive.google.com/file/d/1H2jSs62A-IMq_c5yslFRYLE-h6_Fvw1Z/view?usp=sharing
 
 <h2 align="left">🌐 Connect with me:</h2>
 
 <p align="left">
 <a href="https://linkedin.com/in/in/abbas-raza-52116b254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/abbas-raza-52116b254" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/24733181/abbas-raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="24733181/abbas-raza" height="30" width="40" /></a>
-<a href="https://kaggle.com/abbasrazaa02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abbasrazaa02" height="30" width="40" /></a>
 <a href="https://fb.com/ar.welcomes.you" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ar.welcomes.you" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/abbas_.raza/?r=nametag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abbas_.raza/?r=nametag" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/abbas_.raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abbas_.raza/?r=nametag" height="30" width="40" /></a>
 </p>
 
 <h2 align="left">💻 Languages and Tools:</h2>
@@ -110,7 +109,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-razaa&show_icons=true&locale=en" alt="abbas-razaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-razaa&" alt="abbas-razaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-razaa" alt="abbas-razaa" /></p>
 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
