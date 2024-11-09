@@ -109,7 +109,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-razaa&show_icons=true&locale=en" alt="abbas-razaa" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=abbas-razaa&theme=default" alt="abbas-razaa" /></p>
+![GitHub Streak](https://streak-stats.demolab.com/?user=abbas-razaa&theme=default)
 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
