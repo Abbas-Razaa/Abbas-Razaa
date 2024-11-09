@@ -97,6 +97,7 @@
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn" style="vertical-align:middle;margin:2px"/>
   </a>
+
   <a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="vertical-align:middle;margin:2px"/>
   </a>
@@ -108,7 +109,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-razaa&show_icons=true&locale=en" alt="abbas-razaa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abbas-razaa&" alt="abbas-razaa" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=abbas-razaa&theme=default" alt="abbas-razaa" /></p>
 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
