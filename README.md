@@ -105,12 +105,12 @@
 
 <h2 align="left">📊 Github Stats:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbas-razaa&show_icons=true&locale=en&layout=compact" alt="abbas-razaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abbas-razaa&show_icons=true&locale=en&layout=compact&theme=dark" alt="abbas-razaa" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-razaa&show_icons=true&locale=en" alt="abbas-razaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abbas-razaa&show_icons=true&locale=en&theme=dark" alt="abbas-razaa" /></p>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=abbas-razaa&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abbas-razaa&theme=dark)
 
 <h2 align="left">🔝 Top Contributed Repo:</h2>
 
-![](https://github-contributor-stats.vercel.app/api?username=Abbas-Razaa&limit=5&theme=default&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Abbas-Razaa&limit=5&theme=dark&combine_all_yearly_contributions=true)
