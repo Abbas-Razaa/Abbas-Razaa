@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abbasrazaa02@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1H2jSs62A-IMq_c5yslFRYLE-h6_Fvw1Z/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1aay2jsk9rtTzuzoeFh5Yztr1VYFXXkVZ/view?usp=drive_link
 <h2 align="left">🌐 Connect with me:</h2>
 
 <p align="left">
